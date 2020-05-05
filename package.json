@@ -1,0 +1,33 @@
+{
+    "name": "hyper-dracula-vscode-theme",
+    "displayName": "Hyper Dracula",
+    "publisher": "hilalh",
+    "description": "Hyper colors with Dracula syntax colors all meshed up. 🧛🏻‍♂️🔌👾",
+    "version": "0.0.1",
+    "maintainers": [
+        "Hilal Habashi <hilalh@users.noreply.github.com>"
+    ],
+    "contributors": [],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/hilalh/hyper-dracula-vscode-theme.git"
+    },
+    "bugs": {
+        "url": "https://github.com/hilalh/hyper-dracula-vscode-theme/issues"
+    },
+    "engines": {
+        "vscode": "^1.44.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Hyper Dracula",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Hyper Dracula-color-theme.json"
+            }
+        ]
+    }
+}
