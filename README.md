@@ -1,5 +1,5 @@
 # hyper-draucla-color-theme
-![Screenshot](./screenshot.png)
+![Screenshot](https://raw.githubusercontent.com/hilalh/hyper-dracula-vscode-theme/master/screenshot.png)
 ## Why?
 I love the Dracula syntax colors and Hyper is my favorite terminal as of the moment. While I live mostly in the terminal, I wanted a seamless experience between VS Code and where I spend most of my day - Hyper with tmux.
 
